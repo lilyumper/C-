@@ -1,0 +1,10 @@
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/bin/Debug/netcoreapp2.0/WNS.deps.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/bin/Debug/netcoreapp2.0/WNS.runtimeconfig.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/bin/Debug/netcoreapp2.0/WNS.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/bin/Debug/netcoreapp2.0/WNS.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/bin/Debug/netcoreapp2.0/WNS.pdb
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/obj/Debug/netcoreapp2.0/WNS.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/obj/Debug/netcoreapp2.0/WNS.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/obj/Debug/netcoreapp2.0/WNS.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/obj/Debug/netcoreapp2.0/WNS.dll
+/Users/tomgarcia/Desktop/CodingDojo/C#/WNS/obj/Debug/netcoreapp2.0/WNS.pdb
